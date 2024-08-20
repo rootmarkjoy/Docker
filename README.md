@@ -22,3 +22,6 @@ sudo docker ps -a
 
 - And select the container you want to work with (mine is 0f19152b7a14):
 sudo docker start -ai 0f19152b7a14
+
+
+[docker_cheatsheet.pdf](https://github.com/user-attachments/files/16676190/docker_cheatsheet.pdf)
